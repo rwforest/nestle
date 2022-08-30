@@ -1,0 +1,22 @@
+﻿Risk_Category,Risk_Reason
+Geopolitical,Ukraine-Russia War
+Operational,Port_Congestion
+Financial,Vendor has stable finances
+Economic,Country has Stable economics
+Social,Labour Shortage
+Technological,Minimal Technology Dependency
+Environmental,Floods in West Germany
+Legal,No Legislations detected
+Geopolitical,No immediate threat detected
+Operational,Trucker Protests in Canada
+Social,Trucker Protests in Canada
+Geopolitical,No geopolitical threats detected
+Operational,Potential Trucker shortage
+Social,Protests occuring in state
+Environmental,Extreme Weather detected - Tornado
+Operational,Vendor has history of Quality issues
+Financial,Vendor has relatively weak finances
+Social,No major issue detected
+Environmental,Extreme Weather detected - Flash Flood
+Operational,No Operational Risks detected
+Environmental,No extreme weather detected
