@@ -1,0 +1,53 @@
+﻿Supplier_Name,City,Country,Sales,RM_Category,Process_Category,Main_products_they_mfg,Established_Yr,Customer,Financial_Risk_Score,Risk_Category,Part_mapped_with_BOM
+Tenneco Plant US,Kettering,US,1000,Steel,Assembly,"Shock Absorber, Struts",1981,Volkswagen,1,Low,Shock Absorber
+Powersport India,Bangalore,India,1000,Steel,Assembly,"Shock Absorber, Struts",1981,GM,1,Low,Shock Absorber
+Hitachi China,Shanghai,China,1000,Steel,Assembly,"Shock Absorber, Struts",1981,Suzuki,1,Low,Shock Absorber
+Ningbo Ghieta,Shanghai,China,500,Steel,"Fabrication, Sub-Assembly","Piston Rod, Rods",1995,GM,3,Low,Piston Rod
+Sansera Engineering,Hosur,India,300,Steel,"Fabrication, Sub-Assembly","Piston Rod, Rods",1972,Suzuki,5,Medium,Piston Rod
+Suspa,Hamburg,Germany,500,Steel,"Fabrication, Sub-Assembly","Piston Rod, Rods",2001,Toyota,7,Medium,Piston Rod
+Tenneco,Iberica,Spain,700,Steel,"Fabrication, Sub-Assembly","Piston Rod, Rods",1988,Nissan,2,Low,Piston Rod
+ArcelorMittal,Valencia,Spain,4000,Steel,Furnace Heat Treatment,Steel,2000,Volkswagen,4,Medium,Steel
+TataSteel,Calcutta,India,7000,Steel,Furnace Heat Treatment,Steel,1950,GM,1,Low,Steel
+Tenneco,Iberica,Spain,1000,Plastics,Molding & Fabrication,Electronic Valve,1999,Suzuki,4,Medium,Electronic Valve
+HyperTech,Kaohsiung City,Taiwan,400,Plastics,Molding & Fabrication,Electronic Valve,1964,Toyota,8,High,Electronic Valve
+Winning Industrial,Taichung City,Taiwan,300,Plastics,Molding & Fabrication,Electronic Valve,1976,Nissan,9,High,Electronic Valve
+Findpro,Bangalore,India,250,Plastics,Molding & Fabrication,Electronic Valve,1992,Volkswagen,5,Medium,Electronic Valve
+New Valve Technologies - Tenneco,Michigan,US,800,Plastics,Molding & Fabrication,Electronic Valve assy,1969,GM,2,Low,Electronic Valve assy
+EKK Eagle Industries,Pune,India,300,Plastics,Molding & Fabrication,Electronic Valve assy,1880,Suzuki,6,Medium,Electronic Valve assy
+Eagle Industries Co,Tokyo,Japan,700,Plastics,Molding & Fabrication,Electronic Valve assy,1872,Toyota,2,Low,Electronic Valve assy
+MM Hydro Pneumatics,Delhi,India,200,Plastics,Molding & Fabrication,Electronic Valve assy,2007,Nissan,3,Low,Electronic Valve assy
+Bosch,Bangalore,India,1000,Plastics,Molding & Fabrication,Electronic Valve assy,1886,Volkswagen,2,Low,Electronic Valve assy
+Jiakang Electronics,Zhejiang,China,400,Plastics,Molding & Fabrication,Electronic Valve assy,1985,GM,7,Medium,Electronic Valve assy
+JELPC,Zhejiang,China,500,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1979,Suzuki,8,High,Piston Valve
+Bosch,Delhi,India,1000,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1886,Toyota,4,Medium,Piston Valve
+Sansera Engineering,Hosur,India,300,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1984,Nissan,7,Medium,Piston Valve
+Jiakang Electronics,Shenzhen,China,400,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1985,Volkswagen,9,High,Piston Valve
+Pneukon Valves,Bangalore,India,200,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1996,GM,6,Medium,Piston Valve
+NTGD Valve,Henan,China,250,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1988,Suzuki,5,Medium,Piston Valve
+Leser,Hamburg,Germany,300,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1818,Toyota,2,Low,Piston Valve
+Abilities India Pistons ,Ghaziabad,India,150,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1984,Maruti,3,Low,Piston Valve
+Shriram Pistons ,Ghaziabad,India,500,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1962,Maruti,2,Low,Piston Valve
+NTGD Valve,Gillingham,UK,300,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1936,Toyota,2,Low,Piston Valve
+Bosch India,Iberica,Spain,1000,Plastics,Molding & Fabrication,Electronic Valve,1999,Suzuki,4,Medium,Piston Valve
+Continental India,Kaohsiung City,Taiwan,400,Plastics,Molding & Fabrication,Electronic Valve,1964,Toyota,8,High,Piston Valve
+Honda Japan,Taichung City,Taiwan,300,Plastics,Molding & Fabrication,Electronic Valve,1976,Nissan,9,High,Piston Valve
+BWI Czech,Bangalore,India,250,Plastics,Molding & Fabrication,Electronic Valve,1992,Volkswagen,5,Medium,Piston Valve
+ZF TRW Brazil,Michigan,US,800,Plastics,Molding & Fabrication,Electronic Valve assy,1969,GM,2,Low,Piston Valve
+Supplier 22,Pune,India,300,Plastics,Molding & Fabrication,Electronic Valve assy,1880,Suzuki,6,Medium,Piston Valve
+Supplier 23,Tokyo,Japan,700,Plastics,Molding & Fabrication,Electronic Valve assy,1872,Toyota,2,Low,Piston Valve
+Supplier 24,Delhi,India,200,Plastics,Molding & Fabrication,Electronic Valve assy,2007,Nissan,3,Low,Piston Valve
+Supplier 12_1,Bangalore,India,1000,Plastics,Molding & Fabrication,Electronic Valve assy,1886,Volkswagen,2,Low,Piston Valve
+Supplier 13_1,Zhejiang,China,400,Plastics,Molding & Fabrication,Electronic Valve assy,1985,GM,7,Medium,Piston Valve
+Supplier 14_1,Zhejiang,China,500,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1979,Suzuki,8,High,Piston Valve
+Supplier 15_1,Delhi,India,1000,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1886,Toyota,4,Medium,Piston Valve
+Supplier 16_1,Hosur,India,300,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1984,Nissan,7,Medium,Piston Valve
+Supplier 17_1,Shenzhen,China,400,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1985,Volkswagen,9,High,Piston Valve
+Supplier 18_1,Bangalore,India,200,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1996,GM,6,Medium,Piston Valve
+Supplier 19_1,Henan,China,250,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1988,Suzuki,5,Medium,Piston Valve
+Supplier 20_1,Hamburg,Germany,300,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1818,Toyota,2,Low,Piston Valve
+Supplier 21_1,Ghaziabad,India,150,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1984,Maruti,3,Low,Piston Valve
+Supplier 22_1,Ghaziabad,India,500,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1962,Maruti,2,Low,Piston Valve
+Supplier 23_1,Gillingham,UK,400,Steel,Casting & Machining,"Piston Valve, Piston boring, fabrication, Piston making",1936,Toyota,2,Low,Piston Valve
+Supplier 24_1,Delhi,India,200,Plastics,Molding & Fabrication,Electronic Valve assy,2007,Nissan,3,Low,Piston Valve
+Supplier 25_1,Bangalore,India,1000,Plastics,Molding & Fabrication,Electronic Valve assy,1886,Volkswagen,2,Low,Piston Valve
+Supplier 26_1,Zhejiang,China,400,Plastics,Molding & Fabrication,Electronic Valve assy,1985,GM,7,Medium,Piston Valve
